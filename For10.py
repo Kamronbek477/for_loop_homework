@@ -12,4 +12,4 @@ def main(list1):
             s.append(str(i).capitalize())
     
     return s
-print(main(['kamronbek','javoxir','diyor','ikrom']))
+print(main(['kamronbek',  'javoxir',  'diyor',  'ikrom']))
